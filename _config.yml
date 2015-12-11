@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Quentin Berdugo
+email: this site's hostname (at) gmail.com
+tagline: An open logbook of my experimentations.
+#description: > # this means to ignore newlines until "baseurl:"
+#   An open logbook of my experimentations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://qberdugo.github.io" # the base hostname & protocol for your site
+twitter_username: qberdugo
+github_username:  qberdugo
+repo: https://github.com/qberdugo/qberdugo
+# Build settings
+#markdown: kramdown
